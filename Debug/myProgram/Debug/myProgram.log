@@ -1,0 +1,8 @@
+﻿  models.cpp
+c:\users\debdeb\downloads\programhmm2\programhmm2\program#2_stage1_framework_blank\program2b\program4a\myprogram\models.cpp(512): warning C4244: 'return': conversion from 'double' to 'char', possible loss of data
+c:\users\debdeb\downloads\programhmm2\programhmm2\program#2_stage1_framework_blank\program2b\program4a\myprogram\models.cpp(634): warning C4018: '<': signed/unsigned mismatch
+c:\users\debdeb\downloads\programhmm2\programhmm2\program#2_stage1_framework_blank\program2b\program4a\myprogram\models.cpp(678): warning C4018: '<': signed/unsigned mismatch
+c:\users\debdeb\downloads\programhmm2\programhmm2\program#2_stage1_framework_blank\program2b\program4a\myprogram\models.cpp(691): warning C4018: '<': signed/unsigned mismatch
+c:\users\debdeb\downloads\programhmm2\programhmm2\program#2_stage1_framework_blank\program2b\program4a\myprogram\models.cpp(1487): warning C4018: '<': signed/unsigned mismatch
+c:\users\debdeb\downloads\programhmm2\programhmm2\program#2_stage1_framework_blank\program2b\program4a\myprogram\models.cpp(1557): warning C4018: '<': signed/unsigned mismatch
+  myProgram.vcxproj -> C:\Users\Debdeb\Downloads\ProgramHMM2\ProgramHMM2\Program#2_Stage1_Framework_Blank\program2b\program4a\Debug\myProgram.exe
